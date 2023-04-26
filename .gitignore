@@ -1,6 +1,10 @@
 # Local .terraform directories
 **/.terraform/*
 
+/EC2-VPC/terraform.tfvars
+/Terraform-GKE-cluster/terraform.tfvars
+/Terraform-EKS-cluster/terraform.tfvars
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
